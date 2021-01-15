@@ -1,0 +1,64 @@
+{
+  "objectInfo" : {
+    "id" : "jCncce6Lz0pjqUwnosPZGj",
+    "name" : "ftptos3take1",
+    "type" : "MI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "14660"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "enable_edc_callback_integration",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ {
+    "id" : "ltLDD4I8Rmtjx9ISNGVOWo",
+    "name" : "APJSCPOpstargetS3",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001D0B0000000005ZB"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "APJSCPOpstargetS3",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7uZjyG9AFU8gHEDv7QFPqY",
+    "name" : "ip-172-31-43-48.ap-south-1.compute.internal",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001D2500000000000K"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
