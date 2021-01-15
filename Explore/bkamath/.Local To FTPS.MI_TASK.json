@@ -60,25 +60,5 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "gW8xcy6lS4Qb6g8xHmqWM2",
-    "name" : "Test File Listener",
-    "type" : "MI_FILE_LISTENER",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "11438"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/bkamath"
   } ]
 }
