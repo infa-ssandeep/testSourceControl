@@ -41,28 +41,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "erbhUvMH7upibUUxZ3u9av",
-    "name" : "s3_to_redshift",
-    "type" : "MI_FILE_LISTENER",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "21082"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Sample",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Hardening/R37ImportExport"
-  }, {
-    "id" : "23KKkWhYEo0lvrmoB7QO2Q",
-    "name" : "autoredshift_2",
+    "id" : "8XSPU6Kir4SibywnyraeGK",
+    "name" : "Aautos3",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -70,7 +50,27 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001D0B0000000005PK"
+        "repoHandle" : "01001D0B000000000JUD"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "infaqars",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "dotQ9LFoTeUcetxhrNKAu8",
+    "name" : "redshift_cci",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001D0B0000000005PO"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
