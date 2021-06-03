@@ -40,45 +40,5 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "8XSPU6Kir4SibywnyraeGK",
-    "name" : "Aautos3",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01001D0B000000000JUD"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "infaqars",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "dotQ9LFoTeUcetxhrNKAu8",
-    "name" : "redshift_cci",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01001D0B0000000005PO"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
   } ]
 }
