@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "80KLYNHOwfLiNT0n4yfRYH",
+    "name" : "apjscopstest",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "apjscopstest for mass ingestion with endpoint",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

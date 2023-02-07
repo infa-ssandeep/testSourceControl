@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "cZ5HTsliX2jcj10KaS3W2V",
+    "name" : "ABortcurrenttimemorethanendtime",
+    "type" : "MI_FILE_LISTENER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "10174"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "saved",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ {
+    "id" : "aalqzHRpNEqkTrsSWJlMSL",
+    "name" : "AParentOrg",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001D25000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}

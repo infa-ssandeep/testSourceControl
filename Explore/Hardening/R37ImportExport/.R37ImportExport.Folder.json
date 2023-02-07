@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9exbnp2RXUSbxcyAVc8aw6",
+    "name" : "R37ImportExport",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Will use this for testing import export",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
